@@ -1,0 +1,33 @@
+Warnings encountered during the last execution of ms3 review (v1.2.9)
+=====================================================================
+
+WARNING  ms3.Parse.debussy_estampes.l100-02_estampes_soiree
+	mc 134: The missing value in 'voice/KeySig/accidental' was replaced by '1', present in 'staff' [2].
+WARNING  ms3.Parse.debussy_estampes.l100-02_estampes_soiree
+	mc 134: The missing value in 'voice/KeySig/autoplace' was replaced by '0', present in 'staff' [2].
+WARNING  ms3.Parse.debussy_estampes.l100-02_estampes_soiree
+	mc 134: The missing value in 'voice/KeySig/offset' was replaced by '/', present in 'staff' [2].
+WARNING  ms3.Parse.debussy_estampes.l100-02_estampes_soiree
+	mc 134: The missing value in 'voice/KeySig/offset:x' was replaced by '-0.5', present in 'staff' [2].
+WARNING  ms3.Parse.debussy_estampes.l100-02_estampes_soiree
+	mc 134: The missing value in 'voice/KeySig/offset:y' was replaced by '6', present in 'staff' [2].
+WARNING  ms3.Parse.debussy_estampes.l100-02_estampes_soiree
+	mc 135: The missing value in 'voice/KeySig/accidental' was replaced by '1', present in 'staff' [2].
+WARNING  ms3.Parse.debussy_estampes.l100-02_estampes_soiree
+	mc 135: The missing value in 'voice/KeySig/autoplace' was replaced by '0', present in 'staff' [2].
+WARNING  ms3.Parse.debussy_estampes.l100-02_estampes_soiree
+	mc 135: The missing value in 'voice/KeySig/offset' was replaced by '/', present in 'staff' [2].
+WARNING  ms3.Parse.debussy_estampes.l100-02_estampes_soiree
+	mc 135: The missing value in 'voice/KeySig/offset:x' was replaced by '-0.5', present in 'staff' [2].
+WARNING  ms3.Parse.debussy_estampes.l100-02_estampes_soiree
+	mc 135: The missing value in 'voice/KeySig/offset:y' was replaced by '6', present in 'staff' [2].
+WARNING  ms3.Parse.debussy_estampes.l100-02_estampes_soiree
+	mc 136: The missing value in 'voice/KeySig/accidental' was replaced by '1', present in 'staff' [2].
+WARNING  ms3.Parse.debussy_estampes.l100-02_estampes_soiree
+	mc 136: The missing value in 'voice/KeySig/autoplace' was replaced by '0', present in 'staff' [2].
+WARNING  ms3.Parse.debussy_estampes.l100-02_estampes_soiree
+	mc 136: The missing value in 'voice/KeySig/offset' was replaced by '/', present in 'staff' [2].
+WARNING  ms3.Parse.debussy_estampes.l100-02_estampes_soiree
+	mc 136: The missing value in 'voice/KeySig/offset:x' was replaced by '-0.5', present in 'staff' [2].
+WARNING  ms3.Parse.debussy_estampes.l100-02_estampes_soiree
+	mc 136: The missing value in 'voice/KeySig/offset:y' was replaced by '6', present in 'staff' [2].
